@@ -16,6 +16,8 @@ This Python program utilizes the tkinter library to create a graphical interface
    3. Then add you your extension if you want (dont forget to type "." before typing your desired extension
    4. Click start and simply wait few seconds
 
+The .py version requires python, to run the program without python use the .exe file 
+
 
 I am open to all feedbacks/new versions and features 
 
